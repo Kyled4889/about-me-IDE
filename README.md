@@ -6,9 +6,9 @@ _Hello World_
 <h4> My favorite color is green</h4>
 <h5> I go to Telecom</h5>
 <h6> My email is kyled4889@hstat.org</h6>
- ###### H6 My  ** schedule ** 
- 1.Yoga
- 2.Chemistry
- 3.Algebra 2
- 4. BHP
+ ###### H6 My  ** favorite classes ** 
+ * Sep
+ * BHP
+ * Algebra
+ 
  
