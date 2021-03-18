@@ -6,9 +6,7 @@ _Hello World_
 <h4> My favorite color is green</h4>
 <h5> I go to Telecom</h5>
 <h6> My email is kyled4889@hstat.org</h6>
- My  ** favorite classes ** 
- 1. SEP
- 2. Global
- 3. BHP
+ My  ** favorite classes ** 1. SEP 2. Global 3. BHP
+                                        
  
  
