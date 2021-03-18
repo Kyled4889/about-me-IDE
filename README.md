@@ -11,8 +11,8 @@
     2. Global
     3. Bhp
  Favorite Foods:
- *Curried Chicken 
- *spaghetti
+ * Curried Chicken 
+ * spaghetti
  * Tacos
  * Burritos
  * Burgers
